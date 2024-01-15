@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "name": "Query2",
+    "name": "Query2Module_1",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {
@@ -14,7 +14,7 @@
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_Query2",
+  "id": "Page1_Query2Module_1",
   "deleted": false,
-  "gitSyncId": "65a55520ecb13f0c2f157bd4_65a5552eecb13f0c2f157bf9"
+  "gitSyncId": "65a55520ecb13f0c2f157bd4_65a55d24ecb13f0c2f157d3d"
 }
