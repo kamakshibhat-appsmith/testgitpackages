@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
-    "name": "Query1",
+    "name": "Query2",
     "datasource": {
       "name": "Users",
       "pluginId": "postgres-plugin",
@@ -38,7 +38,7 @@
     "userPermissions": [],
     "createdAt": "2024-01-17T09:16:29Z"
   },
-  "id": "Page1_Query1",
+  "id": "Page1_Query2",
   "deleted": false,
   "gitSyncId": "65a55775ecb13f0c2f157c6a_65a79aed8a57791cec598fbe"
 }
