@@ -1,1 +1,2 @@
-SELECT * FROM public."users" LIMIT 10;
+SELECT * FROM public."users" LIMIT 1
+;

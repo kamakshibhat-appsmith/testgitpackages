@@ -1,19 +1,17 @@
 {
-  "moduleUUID": "65a5552decb13f0c2f157bef",
+  "moduleUUID": "65a56439ecb13f0c2f157fda",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "name": "Query2Module_1",
+    "name": "Query112Module_1",
     "contextType": "PAGE",
     "pageId": "Page1",
-    "inputs": {
-      "input1": "2"
-    },
+    "inputs": {},
     "jsonPathKeys": [],
     "isValid": true,
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_Query2Module_1",
+  "id": "Page1_Query112Module_1",
   "deleted": false,
-  "gitSyncId": "65a55520ecb13f0c2f157bd4_65a55d24ecb13f0c2f157d3d"
+  "gitSyncId": "65a55520ecb13f0c2f157bd4_65a569fcecb13f0c2f158156"
 }
